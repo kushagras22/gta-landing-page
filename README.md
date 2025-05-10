@@ -21,7 +21,7 @@ A modern, immersive web experience that brings the vibrant world of GTA to life 
 
 ## 🚀 Live Demo
 
-Experience the project live: [GTA-VI Landing Page](https://.vercel.app)
+Experience the project live: [GTA-VI Landing Page](https://gta-landing-page-pi.vercel.app/)
 
 ## 💻 Getting Started
 
